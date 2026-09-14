@@ -1,4 +1,5 @@
 # im peppa pig yayayayayaya
+ONLY RUN THIS ON THE WEEKEND ONCE THE MARKET CLOSES, OR YOU WILL BE SCANNING AN UNFINISHED WEEK! 
 A website that runs a weekly stock breakout scan across ~2,000 tickers. It
 lets you watch the progress live, shows the matches in a sortable table, and
 opens a detail page (with an interactive weekly chart) for any ticker you click.
